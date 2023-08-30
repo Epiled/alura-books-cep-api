@@ -8,7 +8,7 @@
 </p>
 
 ![Badge](https://img.shields.io/github/last-commit/Epiled/alura-books-cep-api?style=for-the-badge)
-![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-books-cep--api?style=for-the-badge)
+![Badge](https://img.shields.io/github/languages/code-size/Epiled/alura-books-cep-api?style=for-the-badge)
 ![Badge](https://img.shields.io/github/languages/count/Epiled/alura-books-cep-api?style=for-the-badge)
 ![Bagde](https://img.shields.io/badge/repo%20status-Beta-cyan?style=for-the-badge)
 ![Bagde](https://img.shields.io/github/v/release/epiled/alura-books-cep-api?style=for-the-badge)
