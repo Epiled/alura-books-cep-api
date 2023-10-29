@@ -45,7 +45,7 @@
 <h2 id="demonstracao"> 👀 Demonstração </h2>
 
 <p>No link abaixo você pode ver a página no ar e rodar seus próprios testes</p>
-<p>Alura Books CEP API: <a href="epiled.github.io/alura-books-cep-api/">epiled.github.io/alura-books-cep-api/</a></p>
+<p>Alura Books CEP API: <a href="https://epiled.github.io/alura-books-cep-api/">epiled.github.io/alura-books-cep-api/</a></p>
 
 ![desktop-alura-books-cep-api](https://github.com/Epiled/JavaScript-consumindo-e-tratando-dados-de-uma-API/assets/55258483/1e624e8f-de35-4749-858f-fe209c5b2ba6)
 
